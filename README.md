@@ -46,7 +46,7 @@ for i in range(n):
 ```
 
 ## Output:
-![alt text]((exp.no.06.png))
+![alt text](exp.no.06.png)
 
 
 ## Result:
